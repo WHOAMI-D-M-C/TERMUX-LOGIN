@@ -1,0 +1,129 @@
+Dalvik/2.1.0 (Linux; U; Android 10; Realme 396 Ultra Build/QQ1D.942429.085) [FBAN/FB4A;FBAV/440.0.0.41.46;FBBV/522498481;FBRV/0;FBPN/com.facebook.katana;FBLC/fr_FR;FBMF/Realme;FBBD/Realme;FBDV/Realme 396 Ultra;FBSV/10;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 13; Honor 180 Build/TQ1A.362585.047) [FBAN/FB4A;FBAV/311.0.0.72.62;FBBV/850211817;FBRV/0;FBPN/com.facebook.katana;FBLC/fi_FI;FBMF/Honor;FBBD/Honor;FBDV/Honor 180;FBSV/13;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 10; Huawei N503 Ultra Build/QQ1B.497944.035) [FBAN/FB4A;FBAV/338.0.0.33.10;FBBV/351667704;FBRV/0;FBPN/com.facebook.katana;FBLC/ca_ES;FBMF/Huawei;FBBD/Huawei;FBDV/Huawei N503 Ultra;FBSV/10;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 15; RMX1634 Build/TP1A.867583.012) [FBAN/FB4A;FBAV/371.0.0.19.43;FBBV/538285851;FBRV/0;FBPN/com.facebook.katana;FBLC/es_LA;FBMF/RMX;FBBD/RMX;FBDV/RMX1634;FBSV/15;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 9; Nokia N844T Build/PQ2A.325629.092) [FBAN/FB4A;FBAV/323.0.0.93.14;FBBV/990548873;FBRV/0;FBPN/com.facebook.katana;FBLC/sl_SI;FBMF/Nokia;FBBD/Nokia;FBDV/Nokia N844T;FBSV/9;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 15; Nokia N295 Ultra Build/TQ1A.987770.034) [FBAN/FB4A;FBAV/113.0.0.79.36;FBBV/399105770;FBRV/0;FBPN/com.facebook.katana;FBLC/el_GR;FBMF/Nokia;FBBD/Nokia;FBDV/Nokia N295 Ultra;FBSV/15;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 6; Vivo E605 Pro Build/MC77G2) [FBAN/FB4A;FBAV/137.0.0.87.79;FBBV/951650061;FBRV/0;FBPN/com.facebook.katana;FBLC/mk_MK;FBMF/Vivo;FBBD/Vivo;FBDV/Vivo E605 Pro;FBSV/6;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 8; Sony Xperia 597 Pro Build/OPR5.572812.034) [FBAN/FB4A;FBAV/192.0.0.79.21;FBBV/884437562;FBRV/0;FBPN/com.facebook.katana;FBLC/ro_RO;FBMF/Sony;FBBD/Sony;FBDV/Sony Xperia 597 Pro;FBSV/8;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 14; Nokia Asha 675 Ultra Build/TQ1A.894149.043) [FBAN/FB4A;FBAV/351.0.0.48.74;FBBV/303682862;FBRV/0;FBPN/com.facebook.katana;FBLC/el_GR;FBMF/Nokia;FBBD/Nokia;FBDV/Nokia Asha 675 Ultra;FBSV/14;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 10; Realme S835 Max Build/QQ1A.324447.083) [FBAN/FB4A;FBAV/171.0.0.11.44;FBBV/613796979;FBRV/0;FBPN/com.facebook.katana;FBLC/id_ID;FBMF/Realme;FBBD/Realme;FBDV/Realme S835 Max;FBSV/10;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 8; Itel 966 Pro Build/OPM7.899212.070) [FBAN/FB4A;FBAV/410.0.0.61.87;FBBV/696863271;FBRV/0;FBPN/com.facebook.katana;FBLC/bs_BA;FBMF/Itel;FBBD/Itel;FBDV/Itel 966 Pro;FBSV/8;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 12; Infinix C774T Build/SD2A.808674.086) [FBAN/FB4A;FBAV/406.0.0.83.48;FBBV/210850187;FBRV/0;FBPN/com.facebook.katana;FBLC/bs_BA;FBMF/Infinix;FBBD/Infinix;FBDV/Infinix C774T;FBSV/12;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 5; Realme 532T Build/LYPK1V) [FBAN/FB4A;FBAV/387.0.0.22.68;FBBV/768672799;FBRV/0;FBPN/com.facebook.katana;FBLC/ms_MY;FBMF/Realme;FBBD/Realme;FBDV/Realme 532T;FBSV/5;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 13; Redmi 849 Ultra Build/TP1A.542133.056) [FBAN/FB4A;FBAV/428.0.0.69.77;FBBV/288969818;FBRV/0;FBPN/com.facebook.katana;FBLC/vi_VN;FBMF/Redmi;FBBD/Redmi;FBDV/Redmi 849 Ultra;FBSV/13;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 9; Nokia N669 Max Build/PQ1A.755657.080) [FBAN/FB4A;FBAV/234.0.0.47.89;FBBV/416181248;FBRV/0;FBPN/com.facebook.katana;FBLC/mk_MK;FBMF/Nokia;FBBD/Nokia;FBDV/Nokia N669 Max;FBSV/9;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 5; Vivo 67Z Build/L6LWS1) [FBAN/FB4A;FBAV/232.0.0.47.97;FBBV/730723716;FBRV/0;FBPN/com.facebook.katana;FBLC/ar_AR;FBMF/Vivo;FBBD/Vivo;FBDV/Vivo 67Z;FBSV/5;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 13; Vivo I279I Build/TD1A.760247.039) [FBAN/FB4A;FBAV/397.0.0.46.34;FBBV/600116503;FBRV/0;FBPN/com.facebook.katana;FBLC/pl_PL;FBMF/Vivo;FBBD/Vivo;FBDV/Vivo I279I;FBSV/13;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 8; LG-10R Build/OPM5.840000.067) [FBAN/FB4A;FBAV/128.0.0.46.81;FBBV/165947655;FBRV/0;FBPN/com.facebook.katana;FBLC/ms_MY;FBMF/LG;FBBD/LG;FBDV/LG-10R;FBSV/8;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 8; Nokia Asha K614 Ultra Build/OPR1.481399.085) [FBAN/FB4A;FBAV/315.0.0.86.95;FBBV/352113102;FBRV/0;FBPN/com.facebook.katana;FBLC/bg_BG;FBMF/Nokia;FBBD/Nokia;FBDV/Nokia Asha K614 Ultra;FBSV/8;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 10; Infinix H787 Ultra Build/QQ1C.852854.099) [FBAN/FB4A;FBAV/210.0.0.53.87;FBBV/999372509;FBRV/0;FBPN/com.facebook.katana;FBLC/mk_MK;FBMF/Infinix;FBBD/Infinix;FBDV/Infinix H787 Ultra;FBSV/10;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 14; RMX7959 Build/TP1A.660431.046) [FBAN/FB4A;FBAV/273.0.0.20.26;FBBV/758148597;FBRV/0;FBPN/com.facebook.katana;FBLC/ko_KR;FBMF/RMX;FBBD/RMX;FBDV/RMX7959;FBSV/14;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 7; SM-A740B Build/NB6VFH) [FBAN/FB4A;FBAV/137.0.0.55.84;FBBV/503819988;FBRV/0;FBPN/com.facebook.katana;FBLC/da_DK;FBMF/SM;FBBD/SM;FBDV/SM-A740B;FBSV/7;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 13; Realme 229 Ultra Build/TQ1A.571879.054) [FBAN/FB4A;FBAV/429.0.0.98.29;FBBV/670899435;FBRV/0;FBPN/com.facebook.katana;FBLC/hi_IN;FBMF/Realme;FBBD/Realme;FBDV/Realme 229 Ultra;FBSV/13;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 15; SM-J717ES Build/TP1A.700494.019) [FBAN/FB4A;FBAV/397.0.0.46.80;FBBV/378140662;FBRV/0;FBPN/com.facebook.katana;FBLC/ca_ES;FBMF/SM;FBBD/SM;FBDV/SM-J717ES;FBSV/15;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 14; Infinix 34 Build/TQ2A.654190.036) [FBAN/FB4A;FBAV/238.0.0.81.51;FBBV/307025286;FBRV/0;FBPN/com.facebook.katana;FBLC/fa_IR;FBMF/Infinix;FBBD/Infinix;FBDV/Infinix 34;FBSV/14;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 7; RMX3561 Build/NDRKD3) [FBAN/FB4A;FBAV/226.0.0.88.79;FBBV/408077609;FBRV/0;FBPN/com.facebook.katana;FBLC/pt_PT;FBMF/RMX;FBBD/RMX;FBDV/RMX3561;FBSV/7;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 6; Nokia Asha 829 Ultra Build/MZR3RD) [FBAN/FB4A;FBAV/349.0.0.79.75;FBBV/479032941;FBRV/0;FBPN/com.facebook.katana;FBLC/id_ID;FBMF/Nokia;FBBD/Nokia;FBDV/Nokia Asha 829 Ultra;FBSV/6;FBCA/armeabi-v8a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 8; Redmi Note Q607T Build/OPR2.820828.016) [FBAN/FB4A;FBAV/316.0.0.81.59;FBBV/475404889;FBRV/0;FBPN/com.facebook.katana;FBLC/as_IN;FBMF/Redmi;FBBD/Redmi;FBDV/Redmi Note Q607T;FBSV/8;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 12; Itel S912 Ultra Build/SD2A.715511.092) [FBAN/FB4A;FBAV/387.0.0.18.47;FBBV/579151210;FBRV/0;FBPN/com.facebook.katana;FBLC/da_DK;FBMF/Itel;FBBD/Itel;FBDV/Itel S912 Ultra;FBSV/12;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 7; iphone Build/NDQXCJ)
+Dalvik/2.1.0 (Linux; U; Android 6; iphone Build/MTJLUM)
+Dalvik/2.1.0 (Linux; U; Android 10; iphone Build/QQ1A.123662.093)
+Dalvik/2.1.0 (Linux; U; Android 6; iphone Build/MO0B6D)
+Dalvik/2.1.0 (Linux; U; Android 14; iphone Build/TQ1A.795889.070)
+Dalvik/2.1.0 (Linux; U; Android 10; iphone Build/QD4A.953672.098)
+Dalvik/2.1.0 (Linux; U; Android 6; iphone Build/M0K208)
+Dalvik/2.1.0 (Linux; U; Android 10; iphone Build/QQ1D.713616.015)
+Dalvik/2.1.0 (Linux; U; Android 7; iphone Build/N5ULEE)
+Dalvik/2.1.0 (Linux; U; Android 5; iphone Build/LXQ9OV)
+Dalvik/2.1.0 (Linux; U; Android 12; iphone Build/SP2A.527805.062)
+Dalvik/2.1.0 (Linux; U; Android 15; iphone Build/TP1A.418665.073)
+Dalvik/2.1.0 (Linux; U; Android 9; iphone Build/PQ2A.645045.066)
+Dalvik/2.1.0 (Linux; U; Android 12; iphone Build/SQ1D.382408.040)
+Dalvik/2.1.0 (Linux; U; Android 13; iphone Build/TD1A.552369.088)
+Dalvik/2.1.0 (Linux; U; Android 4; iphone Build/J8364U)
+Dalvik/2.1.0 (Linux; U; Android 7; iphone Build/NP0BX7)
+Dalvik/2.1.0 (Linux; U; Android 9; iphone Build/PQ2A.843506.052)
+Dalvik/2.1.0 (Linux; U; Android 6; iphone Build/M3625T)
+Dalvik/2.1.0 (Linux; U; Android 11; iphone Build/RQ3A.308103.031)
+Dalvik/2.1.0 (Linux; U; Android 12; iphone Build/SQ1D.427786.062)
+Dalvik/2.1.0 (Linux; U; Android 7; iphone Build/N1GFPK)
+Dalvik/2.1.0 (Linux; U; Android 5; iphone Build/LDT1B1)
+Dalvik/2.1.0 (Linux; U; Android 13; iphone Build/TQ1A.587713.029)
+Dalvik/2.1.0 (Linux; U; Android 5; iphone Build/L67VTD)
+Dalvik/2.1.0 (Linux; U; Android 10; iphone Build/QQ1B.349750.015)
+Dalvik/2.1.0 (Linux; U; Android 6; iphone Build/MZSMM7)
+Dalvik/2.1.0 (Linux; U; Android 12; iphone Build/SQ1A.941992.052)
+Dalvik/2.1.0 (Linux; U; Android 9; iphone Build/PQ3B.394994.091)
+Dalvik/2.1.0 (Linux; U; Android 11; iphone Build/RD2A.322913.020)
+Dalvik/2.1.0 (Linux; U; Android 14; iphone Build/TQ1A.297728.097)
+Dalvik/2.1.0 (Linux; U; Android 11; iphone Build/RD1B.683408.061)
+Dalvik/2.1.0 (Linux; U; Android 9; iphone Build/PD2A.986999.062)
+Dalvik/2.1.0 (Linux; U; Android 9; iphone Build/PD2A.760017.047)
+Dalvik/2.1.0 (Linux; U; Android 13; iphone Build/TP1A.792438.045)
+Dalvik/2.1.0 (Linux; U; Android 6; iphone Build/MLJXDO)
+Dalvik/2.1.0 (Linux; U; Android 6; iphone Build/MSY1OU)
+Dalvik/2.1.0 (Linux; U; Android 13; iphone Build/TQ1A.319196.070)
+Dalvik/2.1.0 (Linux; U; Android 13; iphone Build/TQ2A.677401.042)
+Dalvik/2.1.0 (Linux; U; Android 11; iphone Build/RQ3A.628331.082)
+Dalvik/2.1.0 (Linux; U; Android 5; iphone Build/L8K12K)
+Dalvik/2.1.0 (Linux; U; Android 9; iphone Build/PQ3A.341666.054)
+Dalvik/2.1.0 (Linux; U; Android 6; iphone Build/M2ZO4X)
+Dalvik/2.1.0 (Linux; U; Android 9; iphone Build/PPR2.420131.013)
+Dalvik/2.1.0 (Linux; U; Android 14; iphone Build/TQ1A.484078.097)
+Dalvik/2.1.0 (Linux; U; Android 9; iphone Build/PQ1A.967539.063)
+Dalvik/2.1.0 (Linux; U; Android 13; iphone Build/TQ1A.703589.024)
+Dalvik/2.1.0 (Linux; U; Android 12; iphone Build/SQ1A.969187.080)
+Dalvik/2.1.0 (Linux; U; Android 5; iphone Build/LY22WM)
+Dalvik/2.1.0 (Linux; U; Android 5; iphone Build/L0HD6J)
+Dalvik/2.1.0 (Linux; U; Android 7; iphone Build/N83KHT)
+Dalvik/2.1.0 (Linux; U; Android 7; iphone Build/NYJ180)
+Dalvik/2.1.0 (Linux; U; Android 5; iphone Build/L6T1P5)
+Dalvik/2.1.0 (Linux; U; Android 6; iphone Build/MI8WA1)
+Dalvik/2.1.0 (Linux; U; Android 8; iphone Build/OPM3.330151.091)
+Dalvik/2.1.0 (Linux; U; Android 8; iphone Build/OPM7.825647.069)
+Dalvik/2.1.0 (Linux; U; Android 5; iphone Build/LZ79RB)
+Dalvik/2.1.0 (Linux; U; Android 9; iphone Build/PPR2.543991.080)
+Dalvik/2.1.0 (Linux; U; Android 6; iphone Build/M4HYNH)
+Dalvik/2.1.0 (Linux; U; Android 14; iphone Build/TP1A.603578.076)
+Dalvik/2.1.0 (Linux; U; Android 4; iphone Build/JKU8K1)
+Dalvik/2.1.0 (Linux; U; Android 10; iphone Build/QQ1D.400368.075)
+Dalvik/2.1.0 (Linux; U; Android 7; iphone Build/N715GE)
+Dalvik/2.1.0 (Linux; U; Android 9; iphone Build/PPR2.133233.027)
+Dalvik/2.1.0 (Linux; U; Android 6; iphone Build/M95J8I)
+Dalvik/2.1.0 (Linux; U; Android 5; iphone Build/L0VAIO)
+Dalvik/2.1.0 (Linux; U; Android 12; iphone Build/SQ1A.366681.092)
+Dalvik/2.1.0 (Linux; U; Android 12; iphone Build/SQ3A.778935.012)
+Dalvik/2.1.0 (Linux; U; Android 14; iphone Build/TP1A.479185.081)
+Dalvik/2.1.0 (Linux; U; Android 12; iphone Build/SQ3A.679999.090)
+Dalvik/2.1.0 (Linux; U; Android 11; iphone Build/RD1B.903704.032)
+Dalvik/2.1.0 (Linux; U; Android 8; iphone Build/OPR1.928131.079)
+Dalvik/2.1.0 (Linux; U; Android 15; iphone Build/TQ1A.965682.091)
+Dalvik/2.1.0 (Linux; U; Android 14; iphone Build/TP1A.578472.075)
+Dalvik/2.1.0 (Linux; U; Android 10; iphone Build/QQ1C.418740.068)
+Dalvik/2.1.0 (Linux; U; Android 11; iphone Build/RP1A.298742.038)
+Dalvik/2.1.0 (Linux; U; Android 6; iphone Build/MB0O7Q)
+Dalvik/2.1.0 (Linux; U; Android 6; iphone Build/MVRKAA)
+Dalvik/2.1.0 (Linux; U; Android 15; iphone Build/TP1A.512882.066)
+Dalvik/2.1.0 (Linux; U; Android 10; iphone Build/QQ2A.157274.062)
+Dalvik/2.1.0 (Linux; U; Android 12; iphone Build/SQ3A.125963.012)
+Dalvik/2.1.0 (Linux; U; Android 10; iphone Build/QQ1D.982676.084)
+Dalvik/2.1.0 (Linux; U; Android 11; iphone Build/RD2A.351594.074)
+Dalvik/2.1.0 (Linux; U; Android 9; iphone Build/PPR2.298637.059)
+Dalvik/2.1.0 (Linux; U; Android 7; iphone Build/NGH5VQ)
+Dalvik/2.1.0 (Linux; U; Android 8; iphone Build/OPR4.122480.099)
+Dalvik/2.1.0 (Linux; U; Android 6; iphone Build/ME7B85)
+Dalvik/2.1.0 (Linux; U; Android 7; iphone Build/N6L6EV)
+Dalvik/2.1.0 (Linux; U; Android 7; iphone Build/NFU7C0)
+Dalvik/2.1.0 (Linux; U; Android 10; iphone Build/QQ1B.137791.078)
+Dalvik/2.1.0 (Linux; U; Android 8; iphone Build/OPR6.729502.032)
+Dalvik/2.1.0 (Linux; U; Android 6; iphone Build/M33ZBJ)
+Dalvik/2.1.0 (Linux; U; Android 7; iphone Build/N8GNUU)
+Dalvik/2.1.0 (Linux; U; Android 15; iphone Build/TP1A.633710.023)
+Dalvik/2.1.0 (Linux; U; Android 11; iphone Build/RQ1A.429850.056)
+Dalvik/2.1.0 (Linux; U; Android 4; iphone Build/JE7NH6)
+Dalvik/2.1.0 (Linux; U; Android 7; iphone Build/NSMPD3)
+Dalvik/2.1.0 (Linux; U; Android 11; iphone Build/RQ3A.542745.074)
+Dalvik/2.1.0 (Linux; U; Android 11; iphone Build/RP1A.869432.097)
+Dalvik/2.1.0 (Linux; U; Android 7; iphone Build/N6T68U)
